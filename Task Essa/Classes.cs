@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Linq
+namespace OOP
 {
     internal class Employee : PersonAll, PersonM_E
     {
